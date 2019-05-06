@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Best Movie</string>
+    <string name="jsonDonload">Download....JSON</string>
+    <string name="jsonDownlodaing">Parsing...Please Wait</string>
+</resources>
